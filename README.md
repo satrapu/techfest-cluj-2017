@@ -27,7 +27,9 @@ This repo contains the resources to be used during the "Running Automated Accept
     * Jenkins Pipeline: https://jenkins.io/doc/book/pipeline/
     * Blue Ocean: https://jenkins.io/projects/blueocean/
     * Cookbok by CloudBees: https://go.cloudbees.com/docs/cloudbees-documentation/cookbook/book.html
-* Docker: https://www.docker.com/
+* Docker
+    * Official Site: https://www.docker.com/
+    * Documentation: https://docs.docker.com/
 * Rancher v1.x
    * Official Site: http://rancher.com/rancher/
    * GitHub
