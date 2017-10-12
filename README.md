@@ -6,7 +6,7 @@
 
 <a name="description">Description</a>
 --
-This repo contains the resources to be used during the "Running Automated Acceptance Tests on Rancher" presentation at the [Cluj TechFEST](http://cluj.techfest.ro/) public event, which is scheduled to place in Cluj-Napoca during October 27th and November 5th, 2017.
+This repo contains the resources to be used during the "Running Automated Acceptance Tests on Rancher" presentation at the [Cluj TechFEST](http://cluj.techfest.ro/) public event, which is scheduled to take place in Cluj-Napoca during October 27th and November 5th, 2017.
 
 <a name="slides">Presentation Slides</a>
 --
@@ -30,6 +30,7 @@ This repo contains the resources to be used during the "Running Automated Accept
 * Docker
     * Official Site: https://www.docker.com/
     * Documentation: https://docs.docker.com/
+    * Playground: http://training.play-with-docker.com/
 * Rancher v1.x
    * Official Site: http://rancher.com/rancher/
    * GitHub
