@@ -15,7 +15,9 @@ This repo contains the resources to be used during the "Running Automated Accept
 <a name="references">References</a>
 --
 * Acceptance Testing: https://en.wikipedia.org/wiki/Acceptance_testing
-* JBehave: http://jbehave.org/
+* JBehave
+   * Official Site: http://jbehave.org/
+   * Reference Documentation: http://jbehave.org/reference/stable/
    * Alternatives
        * Cucumber: https://cucumber.io/
 * Serenity BDD
