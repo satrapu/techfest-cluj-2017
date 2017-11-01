@@ -10,7 +10,7 @@ This repo contains the resources to be used during the "Running Automated Accept
 
 <a name="slides">Presentation Slides</a>
 --
-* TBD
+* SlideShare: https://www.slideshare.net/satrapu/running-automated-acceptance-tests-on-rancher
 
 <a name="references">References</a>
 --
