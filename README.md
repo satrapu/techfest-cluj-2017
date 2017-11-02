@@ -2,6 +2,7 @@
 **Table of Contents**  
 - [Description](#description)  
 - [Presentation Slides](#slides)  
+- [Presentation Video](#video)  
 - [References](#references)   
 
 <a name="description">Description</a>
@@ -11,6 +12,10 @@ This repo contains the resources to be used during the "Running Automated Accept
 <a name="slides">Presentation Slides</a>
 --
 * SlideShare: https://www.slideshare.net/satrapu/running-automated-acceptance-tests-on-rancher
+
+<a name="video">Presentation Video [English]</a>
+--
+* Facebook: https://www.facebook.com/TechnologyFestival/videos/1080173312085394/
 
 <a name="references">References</a>
 --
