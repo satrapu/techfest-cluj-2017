@@ -7,7 +7,7 @@
 
 <a name="description">Description</a>
 --
-This repo contains the resources to be used during the "Running Automated Acceptance Tests on Rancher" presentation at the [Cluj TechFEST](http://cluj.techfest.ro/) public event, which took place in Cluj-Napoca during October 27th and November 5th, 2017.
+This repo contains the resources used during the "Running Automated Acceptance Tests on Rancher" presentation at the [Cluj TechFEST](http://cluj.techfest.ro/) public event, which took place in Cluj-Napoca during October 27th and November 5th, 2017.
 
 <a name="slides">Presentation Slides</a>
 --
