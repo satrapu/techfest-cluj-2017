@@ -15,7 +15,7 @@ This repo contains the resources used during the "Running Automated Acceptance T
 
 <a name="video">Presentation Video [English]</a>
 --
-* Facebook: https://www.facebook.com/TechnologyFestival/videos/1080173312085394/
+* Facebook: https://www.facebook.com/TechFestRomania/videos/1080173312085394/
 
 <a name="references">References</a>
 --
