@@ -7,7 +7,7 @@
 
 <a name="description">Description</a>
 --
-This repo contains the resources used during the "Running Automated Acceptance Tests on Rancher" presentation at the [Cluj TechFEST](http://cluj.techfest.ro/) public event, which took place in Cluj-Napoca during October 27th and November 5th, 2017.
+This repo contains the resources used during the "Running Automated Acceptance Tests on Rancher" presentation at the [Cluj TechFEST](http://cluj.techfest.ro/festival-events/tech-jam/) public event, which took place in Cluj-Napoca during October 27th and November 5th, 2017.
 
 <a name="slides">Presentation Slides</a>
 --
@@ -24,7 +24,7 @@ This repo contains the resources used during the "Running Automated Acceptance T
    * Official Site: http://jbehave.org/
    * Reference Documentation: http://jbehave.org/reference/stable/
    * Alternatives
-       * Cucumber: https://cucumber.io/
+      * Cucumber: https://cucumber.io/
 * Serenity BDD
     * Official Site: http://www.thucydides.info/
     * Reference Manual: http://thucydides.info/docs/serenity/
